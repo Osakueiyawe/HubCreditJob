@@ -1,0 +1,118 @@
+
+Log Entry : 
+04/25/2022 09:20:19
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 09:20:43
+Error Message:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 09:20:43
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 09:21:36
+Error Message:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:00:32
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:00:32
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:08:31
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:08:32
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:09:48
+Error Message:Error getting Credit Limit from BASIS : ORA-12170: TNS:Connect timeout occurred
+
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:12:55
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:12:55
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:13:27
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:13:27
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:20:55
+Error Message:Error getting Credit Limit from BASIS : ORA-12170: TNS:Connect timeout occurred
+
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:21:24
+Error Message:Check balance limit on acct: 205/139055/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:32:02
+Error Message:Error getting Credit Limit from BASIS : ORA-12170: TNS:Connect timeout occurred
+
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:32:02
+Error Message:Check balance limit on acct: 205/139055/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:32:02
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:34:22
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:34:46
+Error Message:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:34:46
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:36:12
+Error Message:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+____________________________________________________________________
+
+Log Entry : 
+04/25/2022 16:40:56
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________

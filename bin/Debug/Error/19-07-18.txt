@@ -1,0 +1,85 @@
+
+Log Entry : 
+07/19/2018 10:53:47
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 10:53:47
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:19:19
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:20:28
+Error Message:Status of existing Loans for acct: 213763386 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:55:10
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:55:10
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:55:28
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:55:36
+Error Message:Status of existing Loans for acct: 213763386 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:55:59
+Error Message:Status of existing Loans for acct: 213763989 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:57:26
+Error Message:Check balance limit on acct: 213/763989/1/1010/0 with status: -250000
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:59:24
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:59:24
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 11:59:51
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 12:00:09
+Error Message:Status of existing Loans for acct: 213763386 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 12:00:30
+Error Message:Check balance limit on acct: 213/763386/1/1010/0 with status: -125000
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 12:00:52
+Error Message:status of email sent for  acct: 213/763386/1/1010/0 with status: Succeed
+____________________________________________________________________
+
+Log Entry : 
+07/19/2018 12:01:00
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________

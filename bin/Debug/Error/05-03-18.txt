@@ -1,0 +1,26 @@
+
+Log Entry : 
+03/05/2018 13:15:37
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+03/05/2018 13:15:56
+Error Message:About to loop through Hub Advance Unprocessed Request for CBN Rendition
+____________________________________________________________________
+
+Log Entry : 
+03/05/2018 13:16:50
+Error Message:CBN State 168
+____________________________________________________________________
+
+Log Entry : 
+03/05/2018 13:17:07
+Error Message:String or binary data would be truncated.
+The statement has been terminated.
+____________________________________________________________________
+
+Log Entry : 
+03/05/2018 13:17:20
+Error Message:Generate CBN Reference Error: for Trans ID-25. Error - The remote name could not be resolved: 'crms.cbn.extranet'
+____________________________________________________________________

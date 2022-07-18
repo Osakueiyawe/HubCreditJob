@@ -1,0 +1,30 @@
+
+Log Entry : 
+08/28/2019 17:04:40
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+08/28/2019 17:04:42
+Error Message:About to loop through Hub Advance Unprocessed Request for CBN Rendition
+____________________________________________________________________
+
+Log Entry : 
+08/28/2019 17:04:47
+Error Message:Generate CBN Reference Error: for Trans ID-3404. Error - The request failed with HTTP status 407: Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  ).
+____________________________________________________________________
+
+Log Entry : 
+08/28/2019 17:04:48
+Error Message:Generate CBN Reference Error: for Trans ID-3405. Error - The request failed with HTTP status 407: Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  ).
+____________________________________________________________________
+
+Log Entry : 
+08/28/2019 17:04:48
+Error Message:Generate CBN Reference Error: for Trans ID-3406. Error - The request failed with HTTP status 407: Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  ).
+____________________________________________________________________
+
+Log Entry : 
+08/28/2019 17:04:51
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________

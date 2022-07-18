@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://services.model.crms.cbn.gov.ng/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="ReturnSubmissionWSEJBBeanService" targetNamespace="http://services.model.crms.cbn.gov.ng/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://crms.cbn.extranet:7101/CRMS-Core-Model-webapp/ReturnSubmissionWSEJBBeanService?xsd=1" namespace="http://services.model.crms.cbn.gov.ng/" />
+    </xsd:schema>
+  </types>
+  <message name="confirmReturn">
+    <part name="parameters" element="tns:confirmReturn" />
+  </message>
+  <message name="confirmReturnResponse">
+    <part name="parameters" element="tns:confirmReturnResponse" />
+  </message>
+  <message name="submitReturn">
+    <part name="parameters" element="tns:submitReturn" />
+  </message>
+  <message name="submitReturnResponse">
+    <part name="parameters" element="tns:submitReturnResponse" />
+  </message>
+  <portType name="ReturnSubmissionWSEJBBean">
+    <operation name="confirmReturn">
+      <input wsam:Action="http://services.model.crms.cbn.gov.ng/ReturnSubmissionWSEJBBean/confirmReturnRequest" message="tns:confirmReturn" />
+      <output wsam:Action="http://services.model.crms.cbn.gov.ng/ReturnSubmissionWSEJBBean/confirmReturnResponse" message="tns:confirmReturnResponse" />
+    </operation>
+    <operation name="submitReturn">
+      <input wsam:Action="http://services.model.crms.cbn.gov.ng/ReturnSubmissionWSEJBBean/submitReturnRequest" message="tns:submitReturn" />
+      <output wsam:Action="http://services.model.crms.cbn.gov.ng/ReturnSubmissionWSEJBBean/submitReturnResponse" message="tns:submitReturnResponse" />
+    </operation>
+  </portType>
+  <binding name="ReturnSubmissionWSEJBBeanPortBinding" type="tns:ReturnSubmissionWSEJBBean">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="confirmReturn">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="submitReturn">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="ReturnSubmissionWSEJBBeanService">
+    <port name="ReturnSubmissionWSEJBBeanPort" binding="tns:ReturnSubmissionWSEJBBeanPortBinding">
+      <soap:address location="http://crms.cbn.extranet:7101/CRMS-Core-Model-webapp/ReturnSubmissionWSEJBBeanService" />
+    </port>
+  </service>
+</definitions>

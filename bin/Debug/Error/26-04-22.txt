@@ -1,0 +1,435 @@
+
+Log Entry : 
+04/26/2022 10:12:11
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:12:11
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:12:29
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:12:42
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:18:16
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:18:16
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:30:39
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:30:39
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:33:05
+Error Message:Error getting Credit Limit from BASIS : Invalid operation. The OracleDataReader is closed.
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:33:53
+Error Message:Check balance limit on acct: 205/139055/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 10:43:21
+Error Message:Check balance limit on acct: 205/139055/1/1010/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:16:04
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:16:05
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:16:24
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:16:24
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:20:03
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:20:03
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:20:15
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:20:16
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:23:54
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:23:55
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:24:09
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:24:09
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:25:14
+Error Message:Check balance limit on acct: 205/139055/1/1010/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:26:41
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:26:41
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:26:57
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:26:57
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:27:48
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:28:51
+Error Message:status of balance limit placed on  acct: 205/212428/1/1/0 with status: <Response><CODE>1000</CODE><MESSAGE>SUCCESS</MESSAGE></Response>
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:29:29
+Error Message:Started call to ConvertToNuban with Query: select  MAP_ACC_NO from map_acct where bra_code =  and cus_num =  and cur_code =  and led_code =  and sub_acct_code = , Branch Code: , Customer Number: , Currency Code: , Ledger Code: , Sub Account Code: 
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:29:44
+Error Message:Connection request timed out
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:29:44
+Error Message:Ended call to ConvertToNuban with Query: select  MAP_ACC_NO from map_acct where bra_code =  and cus_num =  and cur_code =  and led_code =  and sub_acct_code = , Branch Code: , Customer Number: , Currency Code: , Ledger Code: , Sub Account Code:  | Response: 
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:29:56
+Error Message:Started call to ConvertToNuban with Query: select  MAP_ACC_NO from map_acct where bra_code =  and cus_num =  and cur_code =  and led_code =  and sub_acct_code = , Branch Code: , Customer Number: , Currency Code: , Ledger Code: , Sub Account Code: 
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:33:03
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:33:03
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:33:23
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:41:12
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:41:12
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:43:33
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:43:33
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:45:52
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:45:52
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:46:13
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:46:13
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:47:31
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:47:40
+Error Message:Started call to ConvertToNuban with Query: select  MAP_ACC_NO from map_acct where bra_code =  and cus_num =  and cur_code =  and led_code =  and sub_acct_code = , Branch Code: , Customer Number: , Currency Code: , Ledger Code: , Sub Account Code: 
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:47:40
+Error Message:'Unicode' is an invalid connection string attribute
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:47:40
+Error Message:Ended call to ConvertToNuban with Query: select  MAP_ACC_NO from map_acct where bra_code =  and cus_num =  and cur_code =  and led_code =  and sub_acct_code = , Branch Code: , Customer Number: , Currency Code: , Ledger Code: , Sub Account Code:  | Response: 
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:48:09
+Error Message:Started call to ConvertToNuban with Query: select  MAP_ACC_NO from map_acct where bra_code =  and cus_num =  and cur_code =  and led_code =  and sub_acct_code = , Branch Code: , Customer Number: , Currency Code: , Ledger Code: , Sub Account Code: 
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:49:31
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:49:31
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:49:43
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:49:44
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:50:40
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 12:50:56
+Error Message:Started call to ConvertToNuban with Query: select  MAP_ACC_NO from map_acct where bra_code =  and cus_num =  and cur_code =  and led_code =  and sub_acct_code = , Branch Code: , Customer Number: , Currency Code: , Ledger Code: , Sub Account Code: 
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:06:19
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:06:20
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:06:44
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:06:44
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:07:19
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:11:19
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:11:19
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:11:31
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:11:31
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:12:13
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:18:41
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:18:41
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:18:55
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:18:55
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:19:05
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:19:38
+Error Message:Invalid cast from 'DateTime' to 'Decimal'.
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:21:05
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:21:05
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:21:20
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:21:20
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:21:25
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:45:05
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:45:05
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:45:21
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:45:22
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 13:45:28
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 17:09:33
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 17:09:33
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 17:09:46
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 17:09:47
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/26/2022 17:09:52
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________

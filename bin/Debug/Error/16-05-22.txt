@@ -1,0 +1,227 @@
+
+Log Entry : 
+05/16/2022 08:44:22
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:44:22
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:48:58
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:48:58
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:50:08
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:50:09
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:50:09
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:53:54
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:53:55
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:54:29
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:54:35
+Error Message:Added a balance limit of:85000 to account:205/212428/1/1/0
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:54:46
+Error Message:status of balance limit placed on  acct: 205/212428/1/1/0 with status: <Response><CODE>1000</CODE><MESSAGE>SUCCESS</MESSAGE></Response>
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:55:52
+Error Message:ORA-06550: line 1, column 7:
+PLS-00201: identifier 'MIDWAREUSR.EONEPKG7' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 08:58:12
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:30:34
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:30:35
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:30:52
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:30:54
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:31:13
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:31:17
+Error Message:Balance limit of -85000 exists on account 205/212428/1/1/0
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:31:33
+Error Message:About to call the standing Instruction Procedure
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:31:35
+Error Message:ORA-06550: line 1, column 7:
+PLS-00201: identifier 'MIDWAREUSR.EONEPKG7' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:31:40
+Error Message:Call to standing Instruction Procedure failed
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:31:45
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:36:24
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:36:24
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:36:37
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:36:37
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:36:44
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:36:48
+Error Message:Balance limit of -85000 exists on account 205/212428/1/1/0
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:37:09
+Error Message:About to call the standing Instruction Procedure
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:37:13
+Error Message:ORA-06550: line 1, column 7:
+PLS-00201: identifier 'MIDWAREUSR.EONEPKG7' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 09:37:15
+Error Message:Call to standing Instruction Procedure failed
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:01:19
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:01:19
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:01:37
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:01:37
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:01:47
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:01:52
+Error Message:Balance limit of -85000 exists on account 205/212428/1/1/0
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:02:06
+Error Message:About to call the standing Instruction Procedure
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:02:06
+Error Message:ORA-06550: line 1, column 18:
+PLS-00905: object MIDWAREUSR.EONEPKG7 is invalid
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:02:08
+Error Message:Call to standing Instruction Procedure failed
+____________________________________________________________________
+
+Log Entry : 
+05/16/2022 11:02:11
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________

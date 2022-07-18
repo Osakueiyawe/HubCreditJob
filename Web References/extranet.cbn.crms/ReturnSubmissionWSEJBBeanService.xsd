@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:ns0="http://services.model.crms.cbn.gov.ng/" targetNamespace="http://services.model.crms.cbn.gov.ng/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:complexType name="confirmReturn">
+    <xsd:sequence>
+      <xsd:element name="username" type="xsd:string" />
+      <xsd:element name="password" type="xsd:string" />
+      <xsd:element name="returnname" type="xsd:string" />
+      <xsd:element name="returnxml" type="xsd:string" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="confirmReturnResponse">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" name="confirmreturn" type="xsd:string" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="submitReturn">
+    <xsd:sequence>
+      <xsd:element name="username" type="xsd:string" />
+      <xsd:element name="password" type="xsd:string" />
+      <xsd:element name="returnname" type="xsd:string" />
+      <xsd:element name="returnxml" type="xsd:string" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="submitReturnResponse">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" name="submitreturn" type="xsd:string" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:element name="confirmReturn" type="ns0:confirmReturn" />
+  <xsd:element name="confirmReturnResponse" type="ns0:confirmReturnResponse" />
+  <xsd:element name="submitReturn" type="ns0:submitReturn" />
+  <xsd:element name="submitReturnResponse" type="ns0:submitReturnResponse" />
+</xsd:schema>

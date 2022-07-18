@@ -1,0 +1,21 @@
+
+Log Entry : 
+03/06/2018 09:34:44
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+03/06/2018 09:34:50
+Error Message:About to loop through Hub Advance Unprocessed Request for CBN Rendition
+____________________________________________________________________
+
+Log Entry : 
+03/06/2018 09:35:29
+Error Message:CBN State 120
+____________________________________________________________________
+
+Log Entry : 
+03/06/2018 09:36:01
+Error Message:String or binary data would be truncated.
+The statement has been terminated.
+____________________________________________________________________

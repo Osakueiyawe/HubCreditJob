@@ -1,0 +1,1690 @@
+
+Log Entry : 
+04/27/2022 09:19:31
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:19:31
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:19:47
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:21:26
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:21:56
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:22:13
+Error Message:status of balance limit placed on  acct: 205/212428/1/1/0 with status: <Response><CODE>1000</CODE><MESSAGE>SUCCESS</MESSAGE></Response>
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:30:25
+Error Message:Return status from standing instruction Procedure is: 0
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:31:17
+Error Message:status of email sent for  acct: 205/212428/1/1/0 with status: Failure sending mail.
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:35:27
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:10
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:10
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:15
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:16
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:16
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:16
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:17
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:17
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:17
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:18
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:18
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:18
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:19
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:19
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:19
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:20
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:20
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:20
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:21
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:21
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:21
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:22
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:22
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:22
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:23
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:23
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:23
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:24
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:24
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:24
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:25
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:25
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:25
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:26
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:26
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:26
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:27
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:27
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:27
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:28
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:28
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:28
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:29
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:29
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:29
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:30
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:30
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:30
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:31
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:31
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:31
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:32
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:32
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:32
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:33
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:33
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:33
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:34
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:34
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:34
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:35
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:35
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:35
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:36
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:36
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:36
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:37
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:37
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:37
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:38
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:38
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:38
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:39
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:39
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:39
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:40
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:40
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:40
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:41
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:41
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:41
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:42
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:42
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:42
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:43
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:43
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:43
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:44
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:44
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:44
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:45
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:45
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:45
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:46
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:46
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:46
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:47
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:47
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:47
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:48
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:48
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:48
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:49
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:49
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:49
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:50
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:50
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:50
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:51
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:51
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:51
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:52
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:52
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:52
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:53
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:53
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:53
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:54
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:54
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:54
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:55
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:55
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:47:55
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:33
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:33
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:38
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:39
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:39
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:39
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:40
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:40
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:40
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:41
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:41
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:41
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:42
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:42
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:42
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:43
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:43
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:43
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:44
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:44
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:44
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:45
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:45
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:45
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:46
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:46
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:46
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:47
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:47
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:47
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:48
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:48
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:48
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:49
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:49
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:49
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:50
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:50
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:50
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:51
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:51
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:51
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:52
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:52
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:52
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:53
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:53
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:53
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:54
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:54
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:54
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:55
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:55
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:55
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:56
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:56
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:56
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:57
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:57
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:57
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:58
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:58
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:58
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:59
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:59
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:48:59
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:00
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:00
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:00
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:01
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:01
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:01
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:02
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:02
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:02
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:03
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:03
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:03
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:04
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:04
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:04
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:05
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:05
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:05
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:06
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:06
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:06
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:07
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:07
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:07
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:08
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:08
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:08
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:09
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:09
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:09
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:10
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:10
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:10
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:11
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:11
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:11
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:12
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:12
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:12
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:13
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:13
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:13
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:14
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:14
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:14
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:16
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:16
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:16
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:17
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:17
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:17
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:18
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:18
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:18
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:19
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:19
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:19
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:20
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:20
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:20
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:21
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:21
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:21
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:22
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:22
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:22
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:23
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:23
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:23
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:24
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:24
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:24
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:25
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:25
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:25
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:26
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:26
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:26
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:27
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:27
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:27
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:28
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:28
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:28
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:29
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:29
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:29
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:30
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:30
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:30
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:31
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:31
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:31
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:32
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:32
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:32
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:33
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:33
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:33
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:34
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:34
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:49:34
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:50:25
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:50:25
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:50:41
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:51:49
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 09:51:49
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 10:02:28
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 10:02:28
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 10:02:40
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 10:02:54
+Error Message:Return status from standing instruction Procedure is: 0
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 10:05:07
+Error Message:status of email sent for  acct: 205/212428/1/1/0 with status: Failure sending mail.
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 10:05:16
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 13:00:59
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 13:00:59
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 13:01:04
+Error Message:Retrieved Salary Advance Unprocessed requests: 2
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 13:01:04
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 13:01:56
+Error Message:Check balance limit on acct: 205/212428/1/1/0 with status: -85000
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 13:04:11
+Error Message:Return status from standing instruction Procedure is: 0
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 13:05:02
+Error Message:Return status from standing instruction Procedure is: 0
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 15:19:08
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 15:19:08
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 15:20:57
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 15:21:05
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 15:21:05
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:37:29
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:37:29
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:37:46
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:37:46
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:37:59
+Error Message:Check balance limit on acct: 205/153709/1/59/0 with status: -300000
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:40:18
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:40:18
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:40:30
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:40:30
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:40:39
+Error Message:Check balance limit on acct: 205/153709/1/59/0 with status: -300000
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:41:10
+Error Message:Return status from standing instruction Procedure is: 0
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:41:13
+Error Message:status of email sent for  acct: 205/153709/1/59/0 with status: Failure sending mail.
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:41:17
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:41:18
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+04/27/2022 16:41:18
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________

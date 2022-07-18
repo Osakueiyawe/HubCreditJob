@@ -1,0 +1,646 @@
+
+Log Entry : 
+09/03/2019 11:02:49
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:03:29
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:03:48
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:04:57
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:06:40
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:09:11
+Error Message:Retrieved Salary Advance Unprocessed requests: 2
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:09:11
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:09:17
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:09:19
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:09:29
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:09:30
+Error Message:Check balance limit on acct: 220/858240/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:27:49
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:27:50
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:27:58
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:27:59
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:00
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:09
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:09
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:09
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:09
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:09
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:11
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:11
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:11
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:11
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:11
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:14
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:14
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:14
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:14
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:14
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:18
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:18
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:59
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:28:59
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:01
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:06
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:06
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:15
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:15
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:15
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:17
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:17
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:17
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:17
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:17
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:19
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:19
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:19
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:19
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:19
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:20
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:20
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:20
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:20
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:20
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:23
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:23
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:23
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:23
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:29:23
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:38:18
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:38:23
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:39:24
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:39:24
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:39:57
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:40:48
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:40:49
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:41:07
+Error Message:Error getting Credit Limit from BASIS : ORA-12154: TNS:could not resolve the connect identifier specified
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:45:45
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:45:46
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:56:32
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 11:56:32
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:00:02
+Error Message:Error getting Credit Limit from BASIS : ORA-01036: illegal variable name/number
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:02:16
+Error Message:Error getting Credit Limit from BASIS : ORA-01036: illegal variable name/number
+
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:02:16
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:02:16
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:10:16
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:10:16
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:13:35
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:13:35
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:17:06
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:17:06
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:18:19
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:20:48
+Error Message:Retrieved Salary Advance Unprocessed requests: 2
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:20:48
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:21:00
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:34:40
+Error Message:Retrieved Salary Advance Unprocessed requests: 2
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:34:41
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:34:58
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:36:41
+Error Message:Retrieved Salary Advance Unprocessed requests: 2
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:36:41
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:36:56
+Error Message:Check balance limit on acct: 403/444827/1/1010/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:37:16
+Error Message:status of balance limit placed on  acct: 403/444827/1/1010/0 with status: <Response><CODE>1000</CODE><MESSAGE>SUCCESS</MESSAGE></Response>
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:40:45
+Error Message:Retrieved Salary Advance Unprocessed requests: 1
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:40:45
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:41:04
+Error Message:Check balance limit on acct: 205/154643/1/1010/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:41:11
+Error Message:status of balance limit placed on  acct: 205/154643/1/1010/0 with status: <Response><CODE>1000</CODE><MESSAGE>SUCCESS</MESSAGE></Response>
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:49:07
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:49:18
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:49:31
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:49:37
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:49:45
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 12:49:57
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 13:53:11
+Error Message:Retrieved Salary Advance Unprocessed requests: 2
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 13:53:13
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 13:54:10
+Error Message:Check balance limit on acct: 205/154643/1/1010/0 with status: -60000
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 13:55:51
+Error Message:status of email sent for  acct: 205/154643/1/1010/0 with status: Succeed
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 13:59:35
+Error Message:Check balance limit on acct: 205/152140/1/1010/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 14:00:26
+Error Message:status of balance limit placed on  acct: 205/152140/1/1010/0 with status: <Response><CODE>1000</CODE><MESSAGE>SUCCESS</MESSAGE></Response>
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 14:02:55
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 14:03:21
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:17
+Error Message:Retrieved Salary Advance Unprocessed requests: 2
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:17
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:18
+Error Message:Check balance limit on acct: 205/136758/1/1010/0 with status: 0
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:18
+Error Message:status of balance limit placed on  acct: 205/136758/1/1010/0 with status: <Response><CODE>1000</CODE><MESSAGE>SUCCESS</MESSAGE></Response>
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:19
+Error Message:status of email sent for  acct: 205/136758/1/1010/0 with status: Succeed
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:19
+Error Message:Check balance limit on acct: 205/152140/1/1010/0 with status: -60000
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:19
+Error Message:status of email sent for  acct: 205/152140/1/1010/0 with status: Succeed
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:19
+Error Message: loop through Salary Advance Unprocessed Request Succesfully
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:20
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:21
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:22
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:23
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:24
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________
+
+Log Entry : 
+09/03/2019 15:44:25
+Error Message:No Pending Salary Advance Request
+____________________________________________________________________

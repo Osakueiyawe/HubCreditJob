@@ -1,0 +1,108 @@
+E:\Tayo\SalaryAdvanceNew\bin\Debug\HUBAdvance.exe.config
+E:\Tayo\SalaryAdvanceNew\bin\Debug\HUBAdvance.exe
+E:\Tayo\SalaryAdvanceNew\bin\Debug\HUBAdvance.pdb
+E:\Tayo\SalaryAdvanceNew\bin\Debug\Newtonsoft.Json.dll
+E:\Tayo\SalaryAdvanceNew\bin\Debug\RestSharp.dll
+E:\Tayo\SalaryAdvanceNew\bin\Debug\Newtonsoft.Json.pdb
+E:\Tayo\SalaryAdvanceNew\bin\Debug\Newtonsoft.Json.xml
+E:\Tayo\SalaryAdvanceNew\obj\Debug\SalaryAdvanceNew.csprojResolveAssemblyReference.cache
+E:\Tayo\SalaryAdvanceNew\obj\Debug\SalaryAdvanceNew.Form1.resources
+E:\Tayo\SalaryAdvanceNew\obj\Debug\HUBAdvance.Properties.Resources.resources
+E:\Tayo\SalaryAdvanceNew\obj\Debug\SalaryAdvanceNew.csproj.GenerateResource.Cache
+E:\Tayo\SalaryAdvanceNew\obj\Debug\SalaryAdvanceNew.csproj.CoreCompileInputs.cache
+E:\Tayo\SalaryAdvanceNew\obj\Debug\HUBAdvance.exe
+E:\Tayo\SalaryAdvanceNew\obj\Debug\HUBAdvance.pdb
+E:\Tayo\HubAdvance\bin\Debug\HUBAdvance.exe.config
+E:\Tayo\HubAdvance\bin\Debug\HUBAdvance.exe
+E:\Tayo\HubAdvance\bin\Debug\HUBAdvance.pdb
+E:\Tayo\HubAdvance\bin\Debug\Newtonsoft.Json.dll
+E:\Tayo\HubAdvance\bin\Debug\RestSharp.dll
+E:\Tayo\HubAdvance\bin\Debug\Newtonsoft.Json.pdb
+E:\Tayo\HubAdvance\bin\Debug\Newtonsoft.Json.xml
+E:\Tayo\HubAdvance\obj\Debug\SalaryAdvanceNew.Form1.resources
+E:\Tayo\HubAdvance\obj\Debug\HUBAdvance.Properties.Resources.resources
+E:\Tayo\HubAdvance\obj\Debug\SalaryAdvanceNew.csproj.GenerateResource.cache
+E:\Tayo\HubAdvance\obj\Debug\SalaryAdvanceNew.csproj.CoreCompileInputs.cache
+E:\Tayo\HubAdvance\obj\Debug\SalaryAdvanceNew.csproj.CopyComplete
+E:\Tayo\HubAdvance\obj\Debug\HUBAdvance.exe
+E:\Tayo\HubAdvance\obj\Debug\HUBAdvance.pdb
+E:\Tayo\HubAdvance\obj\Debug\SalaryAdvanceNew.csprojAssemblyReference.cache
+C:\SourceControlled\HUBADVANCE\bin\Debug\HUBAdvance.exe.config
+C:\SourceControlled\HUBADVANCE\bin\Debug\HUBAdvance.exe
+C:\SourceControlled\HUBADVANCE\bin\Debug\HUBAdvance.pdb
+C:\SourceControlled\HUBADVANCE\bin\Debug\Newtonsoft.Json.dll
+C:\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.csprojAssemblyReference.cache
+C:\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.Form1.resources
+C:\SourceControlled\HUBADVANCE\obj\Debug\HUBAdvance.Properties.Resources.resources
+C:\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.csproj.GenerateResource.cache
+C:\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.csproj.CoreCompileInputs.cache
+C:\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.csproj.CopyComplete
+C:\SourceControlled\HUBADVANCE\obj\Debug\HUBAdvance.exe
+C:\SourceControlled\HUBADVANCE\obj\Debug\HUBAdvance.pdb
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\bin\Debug\HUBAdvance.exe.config
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\bin\Debug\HUBAdvance.exe
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\bin\Debug\HUBAdvance.pdb
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\bin\Debug\Newtonsoft.Json.dll
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.csprojAssemblyReference.cache
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.Form1.resources
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\obj\Debug\HUBAdvance.Properties.Resources.resources
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.csproj.GenerateResource.cache
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.csproj.CoreCompileInputs.cache
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\obj\Debug\SalaryAdvanceNew.csproj.CopyComplete
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\obj\Debug\HUBAdvance.exe
+\\10.0.8.120\c$\SourceControlled\HUBADVANCE\obj\Debug\HUBAdvance.pdb
+C:\SourceControlled\HUBADVANCE\bin\Debug\HUBAdvance.exe.manifest
+C:\SourceControlled\HUBADVANCE\bin\Debug\HUBAdvance.application
+C:\SourceControlled\HUBADVANCE\obj\Debug\HUBAdvance.exe.manifest
+C:\SourceControlled\HUBADVANCE\obj\Debug\HUBAdvance.application
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\SalaryAdvanceNew.csprojAssemblyReference.cache
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\SalaryAdvanceNew.Form1.resources
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\HUBAdvance.Properties.Resources.resources
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\SalaryAdvanceNew.csproj.GenerateResource.cache
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\SalaryAdvanceNew.csproj.CoreCompileInputs.cache
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\HUBAdvance.exe
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\HUBAdvance.pdb
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\bin\Debug\HUBAdvance.exe.config
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\bin\Debug\HUBAdvance.exe.manifest
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\bin\Debug\HUBAdvance.application
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\bin\Debug\HUBAdvance.exe
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\bin\Debug\HUBAdvance.pdb
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\bin\Debug\Newtonsoft.Json.dll
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\HUBAdvance.exe.manifest
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\HUBAdvance.application
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\obj\Debug\SalaryAdvanceNew.csproj.CopyComplete
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Advance\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\bin\Debug\HUBAdvance.exe.config
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\bin\Debug\HUBAdvance.exe.manifest
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\bin\Debug\HUBAdvance.application
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\bin\Debug\HUBAdvance.exe
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\bin\Debug\HUBAdvance.pdb
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\bin\Debug\Newtonsoft.Json.dll
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\SalaryAdvanceNew.csprojAssemblyReference.cache
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\SalaryAdvanceNew.Form1.resources
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\HUBAdvance.Properties.Resources.resources
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\SalaryAdvanceNew.csproj.GenerateResource.cache
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\SalaryAdvanceNew.csproj.CoreCompileInputs.cache
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\HUBAdvance.exe.manifest
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\HUBAdvance.application
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\SalaryAdvanceNew.csproj.CopyComplete
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\HUBAdvance.exe
+C:\Users\osakue.iyawe.GTBANK\Desktop\Agile\Hub Credit Job\obj\Debug\HUBAdvance.pdb
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\bin\Debug\HUBAdvance.exe.config
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\bin\Debug\HUBAdvance.exe.manifest
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\bin\Debug\HUBAdvance.application
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\bin\Debug\HUBAdvance.exe
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\bin\Debug\HUBAdvance.pdb
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\bin\Debug\Newtonsoft.Json.dll
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\SalaryAdvanceNew.csprojAssemblyReference.cache
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\SalaryAdvanceNew.Form1.resources
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\HUBAdvance.Properties.Resources.resources
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\SalaryAdvanceNew.csproj.GenerateResource.cache
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\SalaryAdvanceNew.csproj.CoreCompileInputs.cache
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\HUBAdvance.exe.manifest
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\HUBAdvance.application
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\SalaryAdvanceNew.csproj.CopyComplete
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\HUBAdvance.exe
+C:\Users\osakue.iyawe.GTBANK\Desktop\Hub Credit Job\obj\Debug\HUBAdvance.pdb

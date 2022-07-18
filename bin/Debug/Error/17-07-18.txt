@@ -1,0 +1,20 @@
+
+Log Entry : 
+07/17/2018 14:28:46
+Error Message:About to load Hub Advance Unprocessed Request for CBN
+____________________________________________________________________
+
+Log Entry : 
+07/17/2018 14:28:49
+Error Message:No CBN Unproccessed record found
+____________________________________________________________________
+
+Log Entry : 
+07/17/2018 14:40:02
+Error Message:About to loop through Salary Advance Unprocessed Request
+____________________________________________________________________
+
+Log Entry : 
+07/17/2018 14:41:20
+Error Message:Error Retrieving Mobile Number
+____________________________________________________________________
